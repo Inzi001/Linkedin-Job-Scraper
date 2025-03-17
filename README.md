@@ -21,7 +21,7 @@ pip install requests lxml pandas
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/linkedin-job-scraper.git
+git clone https://github.com/Inzi001/Linkedin-Job-Scraper.git
 cd linkedin-job-scraper
 ```
 
